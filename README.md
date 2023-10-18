@@ -5,6 +5,7 @@ Description: JavaScript code that takes a sentence as input and reverses the ord
 
 Usage: Input a sentence, and the program will return a new sentence with the words' letters reversed.
 
+
 2)Array Sorting in Descending Order:
 
 Description: JavaScript code to sort an array in descending order.
