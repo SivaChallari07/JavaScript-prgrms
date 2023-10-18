@@ -2,6 +2,7 @@
 1)Reverse Words in Sentence:
 
 Description: JavaScript code that takes a sentence as input and reverses the order of letters in each word.
+
 Usage: Input a sentence, and the program will return a new sentence with the words' letters reversed.
 
 2)Array Sorting in Descending Order:
